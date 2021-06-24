@@ -1,0 +1,16 @@
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.exe
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.deps.json
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.runtimeconfig.json
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.runtimeconfig.dev.json
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.dll
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\ref\vehiclelot.dll
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\bin\Debug\net5.0\vehiclelot.pdb
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.csproj.AssemblyReference.cache
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.AssemblyInfoInputs.cache
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.AssemblyInfo.cs
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.csproj.CoreCompileInputs.cache
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.dll
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\ref\vehiclelot.dll
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.pdb
+C:\Users\POberhau\Documents\Projects\VehicleLot\vehiclelot\obj\Debug\net5.0\vehiclelot.genruntimeconfig.cache
